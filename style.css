@@ -372,7 +372,13 @@ background: #6278df;
 }
 
 /* newsletter-section */
-.newsletter-section{}
+.newsletter-section{   
+}
+.newsletter-section input[type="email"]{
+    padding: 0.5rem 1rem;
+    border: 1px solid #e27ea3;
+    font-size: 1rem;
+}
 .section-title .newsletter-title h2{}
 .newsletter-form{}
 .default-input{}
